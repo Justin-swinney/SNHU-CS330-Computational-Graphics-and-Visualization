@@ -1,11 +1,5 @@
 # CS-330
 
-## Table of Contents
-- Tools
-- Requirements
-- [Controls](#Controls)
-- Reflection
-- Project Screenshots
   
 ### Tools
 
@@ -16,7 +10,7 @@
 
 ##
 
-## [Controls](https://github.com/Justin-swinney/SNHU-CS330-Computational-Graphics-and-Visualization/blob/main/InputController.cpp "Input Source Code") {#Controls}
+## [Controls](https://github.com/Justin-swinney/SNHU-CS330-Computational-Graphics-and-Visualization/blob/main/InputController.cpp "Input Source Code")
 
 ### Keyboard
 | Input | Description |
